@@ -1,7 +1,10 @@
 # AplicacionReserva-J2EE
 Integrantes: 
+* Daniel Acevedo
+* Aaron Cruz
+* Edison Jumbo
+* Christian Mainato
 * Jhonathan Pizarra
-* Lizeth Toasa
 
 Asignatura: Aplicaciones Distribuidas\
 Facultad: ESFOT
